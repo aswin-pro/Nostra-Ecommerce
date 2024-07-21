@@ -29,7 +29,7 @@ JavaScript: For adding interactivity and dynamic behavior to the website.
 
 How to View
 
-You can explore the Nostra E-commerce by visiting 
+You can explore the Nostra E-commerce by visiting https://aswin-pro.github.io/Nostra-Ecommerce/
 
 Contributing
 
